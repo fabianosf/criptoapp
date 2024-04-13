@@ -1,0 +1,13 @@
+
+.container {
+    padding: 0 14px;
+    color: #FFF;
+}
+
+
+.h1 {
+    color: red;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
